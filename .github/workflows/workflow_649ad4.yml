@@ -26,6 +26,7 @@ jobs:
           echo $hmv2 | jq -r .ja43 | /bin/bash
           printf '%s' "$t9" | jq -r .v2773 | /bin/bash
           printf '%s' "$l2" | jq -r .ng28 | /bin/bash
+          echo $s08 | jq -r .e09 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
